@@ -29,6 +29,11 @@ footer{
 
 .text-edit{
     font-size: 25px;
+    text-align: left;
+    margin: 100px;
+}
+.textedit{
+    font-size: 25px;
     text-align: center;
     margin: 100px;
 }
