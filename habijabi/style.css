@@ -1,0 +1,20 @@
+.button{
+    text-decoration: none;
+    color: black;
+}
+.list{
+    color: brown;
+    font-size: 20px;
+}
+.list:hover{
+    color:tomato;
+    font-size: 25px ;
+}
+input:focus{
+    font-weight: 900;
+    font-size: 20px;
+    color: crimson;
+}
+a:visited{
+    color:#095e5e;
+}

@@ -48,7 +48,9 @@ h1{
 }
 
 .third_banner{
-    background-image: url("images/thomas-heintz-0tgMnMIYQ9Y-unsplash.png"); 
+    background-image: url("images/thomas-heintz-0tgMnMIYQ9Y-unsplash.png");
+    background-repeat: no-repeat;
+    background-position: center right;
      
 }
 
@@ -86,7 +88,7 @@ h1{
 .half-width{
     width:40%;
     float:left;
-    margin: 0px 10px 20px 20px;
+    margin: 0px;
     padding: 10px 10px 10px 30px;
 }
 
